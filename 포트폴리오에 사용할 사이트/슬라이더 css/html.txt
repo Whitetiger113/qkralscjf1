@@ -1,0 +1,131 @@
+<div class="container" id="web_control">
+                    <div class="content">
+                     <h1 class="title"></h1>
+                      <div class="helmet">
+                        <img src="https://i.imgur.com/9oGlAz2.png" alt="">
+                        <div class="planet_position">
+                      <div class="planet_shadow"></div>
+                     <div class="planet_photo"></div>
+                       </div>
+                          </div>
+                    </div>
+                    <div class="carousel">
+                    <div class="info_back">
+                    <h1></h1>
+                    </div>
+                    <div class="citem active" id="p0">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p1">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p2">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p3">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p4">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p5">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p6">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    <div class="citem" id="p7">
+                    <h1></h1>
+                    <p>
+                    </p>
+                    <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    </ul>
+                    <p>
+                    <span></span>
+                    </p>
+                    </div>
+                    </div>
+                    <div class="content">
+                    <h1 class="title"></h1>
+                    <div class="helmet">
+                    <img src="">
+                    <div class="planet_position">
+                    <div class="planet_shadow"></div>
+                    <div class="planet_photo"></div>
+                    </div>
+                    </div>
+                    </div>
+                 </div>

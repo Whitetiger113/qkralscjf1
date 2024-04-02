@@ -1,0 +1,8 @@
+/* 반응형 */
+@media screen and (max-width: 1898px) {
+
+  html {
+    right: -1%;
+  }
+}
+

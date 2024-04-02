@@ -1,0 +1,3 @@
+HAML을 HTML로 변환하는 변환기 : https://herotofu.com/haml-converter
+scss를 css로 변환시키기 : chrome-extension://hbdlapkkpekpojoegickcoabmdmdbhjn/ui/feature.html
+필요한 요소찾는 사이트 : https://wsss.tistory.com/

@@ -1,0 +1,44 @@
+.flex {
+  display: flex;
+}
+
+.demwe {
+  /* 추가한 flex 클래스로 가로 정렬 */
+  display: flex;
+}
+
+.wkrurwmd {
+  position: relative;
+  flex-direction: column;
+}
+
+.tmzlf {
+  /* 네비게이션 요소들을 세로 정렬하기 위해 flex-direction 설정 */
+  flex-direction: column;
+}
+
+.wkrurwmd ul {
+  position: absolute;
+  top: 0;
+   /* ul 요소들의 가로 목록을 가로로 정렬 */
+   display: flex;
+   justify-content: space-between; 
+   gap: 20px; /* 각 요소 사이의 간격 설정 */
+}
+.tmzlf ul {
+  /* ul 요소들의 가로 목록을 가로로 정렬 */
+  display: flex;
+  justify-content: space-between; 
+  gap: 20px; /* 각 요소 사이의 간격 설정 */
+}
+
+.wkrurwmd ul li,
+.tmzlf ul li {
+  /* 각 li 요소의 너비와 높이 설정 */
+  width: 100px;
+  height: 100px;
+  /* 기타 스타일링 */
+  display: flex; /* 내부 요소들을 가로로 정렬하기 위해 */
+  align-items: center; /* 내부 요소들을 세로 가운데 정렬하기 위해 */
+  justify-content: center; /* 내부 요소들을 가로 가운데 정렬하기 위해 */
+}
